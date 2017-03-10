@@ -1,0 +1,20 @@
+<hr>
+<p>WHERE <span class="smalltext"> [title_3]  </span></p>
+<hr>
+<p>WHEN <span class="smalltext"> [field_project_start_date_1]  </span></p>
+<hr>
+<p>STATUS<span class="smalltext"> [field_project_activity_status]  </span></p>
+<hr>
+<p>CATEGORY<span class="smalltext"> [field_project_category] </span></p>
+<hr>
+<p>OVERALL PROJECT FUNDING <span class="smalltext"> [field_project_budget_usd] </span> $.</p>
+<br>
+<i class="fa fa-info-circle" aria-hidden="true"></i> The Project Funding value is related to the entire project and not to this pecific Site.
+
+
+.smalltext {
+    font-family: inherit;
+    font-weight: 700;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
