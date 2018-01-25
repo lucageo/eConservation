@@ -1,9 +1,9 @@
 $view = new view();
-$view->name = 'biopama_rest_service';
+$view->name = 'econservation_rest_service';
 $view->description = '';
 $view->tag = 'default';
 $view->base_table = 'node';
-$view->human_name = 'biopama_rest_service';
+$view->human_name = 'econservation_rest_service';
 $view->core = 7;
 $view->api_version = '3.0';
 $view->disabled = FALSE; /* Edit this to true to make a default view disabled initially */
